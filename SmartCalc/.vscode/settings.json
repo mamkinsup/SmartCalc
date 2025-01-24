@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "my_heder.h": "c",
+        "s21_test_calc.h": "c"
+    }
+}
